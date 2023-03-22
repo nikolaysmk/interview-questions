@@ -3,5 +3,6 @@
   "spellcheck": true,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "promptDelete": false
 }
