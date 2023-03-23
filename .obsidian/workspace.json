@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "138e114f7ce4a6f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "date/2023-03-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2d24f10a8ad9f219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Архитектура и хорошие практики.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc44c0deab1bfe84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/Разработка приложения.md",
+                "file": "Questions/Как устроен веб.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,14 +104,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "913bee2ba2a102a2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "03658a9f11c64760",
             "type": "leaf",
             "state": {
@@ -153,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/Разработка приложения.md"
+                "file": "Questions/Как устроен веб.md"
               }
             }
           }
@@ -169,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Разработка приложения.md",
+                "file": "Questions/Как устроен веб.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/Разработка приложения.md",
+                "file": "Questions/Как устроен веб.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,15 +176,25 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "cc44c0deab1bfe84",
+  "active": "2d24f10a8ad9f219",
   "lastOpenFiles": [
     "Questions/Архитектура и хорошие практики.md",
+    "Questions/Как устроен веб.md",
     "Questions/Разработка приложения.md",
+    "idea/2023-03-24.md",
+    "date/other/Recording 20230324010416.webm",
+    "date/other",
+    "idea/new.md",
+    "idea/Без названия.md",
+    "idea",
+    "Questions/Без названия.md",
+    "Без названия.canvas",
+    "114596851_980171645776909_4824227956002081470_n.jpg",
+    "date/template.md",
+    "date/2023-03-24.md",
     "date/2023-03-23.md",
     "Questions/Questions.md",
-    "Questions/Как устроен веб.md",
     "date/2023-03-22.md",
-    "date/template.md",
     "Questions/Виды веб-приложений.webm",
     "Questions/Что такое API.webm",
     "date/2023-03-21.md",
@@ -227,25 +204,16 @@
     "date/Recording 20230321134704.webm",
     "date/Recording 20230321134447.webm",
     "Questions",
-    "Как устроен веб",
     "Questions/Web Api/Web Api.md",
     "Questions/Web Api/Что такое HTTP?.md",
     "Questions/Web Api/Что такое HTTP cookie?.md",
     "Questions/Web Api/Разница между Long-Polling, Websockets и Server-Sent Events?.md",
-    "Questions/Web Api/Какие методы может иметь HTTP-запрос?.mp3",
     "Questions/Web Api/Какие методы может иметь HTTP-запрос?.md",
-    "Questions/Web Api/Из чего состоит HTTP-запрос?.mp3",
     "Questions/Web Api/Из чего состоит HTTP-запрос?.md",
     "Questions/Web Api/Для чего они используются? HTTP Cookie.md",
     "().md",
     "Questions/Web Technologies/Web Technologies.md",
     "Questions/Web Technologies/Что Такое API?.md",
-    "Questions/Web Technologies/Хост (host) и домен (domain).md",
-    "Questions/Web Technologies/Уменьшения времени загрузки веб-страницы.md",
-    "Questions/Web Technologies/Разработка мультиязычных сайтов.md",
-    "Questions/Web Technologies/Разница между Progressive Enhancement и Graceful Degradation.md",
-    "Questions/Web Technologies/Прогрессивный рендеринг на стороне сервера (SSR).md",
-    "Questions/Web Technologies/Прогрессивный рендеринг.md",
-    "Questions/Web Technologies/Прогрессивное веб-приложение (PWA).md"
+    "Questions/Web Technologies/Хост (host) и домен (domain).md"
   ]
 }
