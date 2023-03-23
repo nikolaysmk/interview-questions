@@ -1,4 +1,5 @@
 {
   "folder": "date/",
-  "autorun": true
+  "autorun": true,
+  "template": "date/template"
 }

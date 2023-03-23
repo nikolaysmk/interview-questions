@@ -1,0 +1,39 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Разработка приложения",
+      "path": "Questions/Разработка приложения.md"
+    },
+    {
+      "basename": "Архитектура и хорошие практики",
+      "path": "Questions/Архитектура и хорошие практики.md"
+    },
+    {
+      "basename": "2023-03-23",
+      "path": "date/2023-03-23.md"
+    },
+    {
+      "basename": "Questions",
+      "path": "Questions/Questions.md"
+    },
+    {
+      "basename": "Как устроен веб",
+      "path": "Questions/Как устроен веб.md"
+    },
+    {
+      "basename": "2023-03-21",
+      "path": "date/2023-03-21.md"
+    },
+    {
+      "basename": "2023-03-22",
+      "path": "date/2023-03-22.md"
+    },
+    {
+      "basename": "template",
+      "path": "date/template.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": 500,
+  "openType": "tab"
+}

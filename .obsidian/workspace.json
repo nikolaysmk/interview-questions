@@ -11,13 +11,40 @@
             "id": "138e114f7ce4a6f4",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "Questions/Виды веб-приложений.webm"
+                "file": "date/2023-03-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d24f10a8ad9f219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Архитектура и хорошие практики.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc44c0deab1bfe84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Разработка приложения.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -29,6 +56,7 @@
       {
         "id": "7d399ef94ae9e539",
         "type": "tabs",
+        "dimension": 57.42857142857143,
         "children": [
           {
             "id": "fd084838a9a00994",
@@ -46,14 +74,6 @@
             }
           },
           {
-            "id": "58e2e86e936bf92c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "4027b4ea6b9f9870",
             "type": "leaf",
             "state": {
@@ -64,7 +84,37 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "e6dee0faf9b933cb",
+        "type": "tabs",
+        "dimension": 21.285714285714285,
+        "children": [
+          {
+            "id": "58e2e86e936bf92c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b7ee02799598b1b6",
+        "type": "tabs",
+        "dimension": 21.285714285714285,
+        "children": [
+          {
+            "id": "c4d91b435a344e11",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,32 +129,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a3c162db90fc289",
+            "id": "913bee2ba2a102a2",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Questions/Виды веб-приложений.webm",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "30ca5e94575d272f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Questions/Виды веб-приложений.webm",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -124,16 +153,51 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/Виды веб-приложений.webm"
+                "file": "Questions/Разработка приложения.md"
               }
             }
           }
         ]
+      },
+      {
+        "id": "2df390e15ea52742",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a3c162db90fc289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Questions/Разработка приложения.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30ca5e94575d272f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Questions/Разработка приложения.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,17 +209,20 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "138e114f7ce4a6f4",
+  "active": "cc44c0deab1bfe84",
   "lastOpenFiles": [
+    "Questions/Архитектура и хорошие практики.md",
+    "Questions/Разработка приложения.md",
+    "date/2023-03-23.md",
+    "Questions/Questions.md",
     "Questions/Как устроен веб.md",
-    "Questions/Виды веб-приложений.webm",
     "date/2023-03-22.md",
+    "date/template.md",
+    "Questions/Виды веб-приложений.webm",
     "Questions/Что такое API.webm",
     "date/2023-03-21.md",
     "date/Recording 20230321134704.webm.md",
     "date/Recording 20230321135147.webm",
-    "Questions/Questions.md",
-    "Questions/Архитектура и хорошие практики.md",
     "date/Recording 20230321134528.webm",
     "date/Recording 20230321134704.webm",
     "date/Recording 20230321134447.webm",
@@ -179,8 +246,6 @@
     "Questions/Web Technologies/Разница между Progressive Enhancement и Graceful Degradation.md",
     "Questions/Web Technologies/Прогрессивный рендеринг на стороне сервера (SSR).md",
     "Questions/Web Technologies/Прогрессивный рендеринг.md",
-    "Questions/Web Technologies/Прогрессивное веб-приложение (PWA).md",
-    "Questions/Web Technologies/Почему очищать кэш важно? Как это можно сделать?.md",
-    "Questions/Web Technologies/Поток документов.md"
+    "Questions/Web Technologies/Прогрессивное веб-приложение (PWA).md"
   ]
 }
