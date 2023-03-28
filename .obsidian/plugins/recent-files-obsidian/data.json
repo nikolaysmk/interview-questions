@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Как устроен веб",
-      "path": "Questions/Как устроен веб.md"
+      "basename": "Паттерн Observer",
+      "path": "arch/Паттерн Observer.md"
     },
     {
       "basename": "Архитектура и хорошие практики",
       "path": "Questions/Архитектура и хорошие практики.md"
+    },
+    {
+      "basename": "Виды веб-приложений",
+      "path": "Questions/Виды веб-приложений.webm"
+    },
+    {
+      "basename": "Как устроен веб",
+      "path": "Questions/Как устроен веб.md"
     },
     {
       "basename": "Разработка приложения",

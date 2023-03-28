@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "545a6b0bd6402e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arch/Паттерн Observer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/Как устроен веб.md"
+                "file": "arch/Паттерн Observer.md"
               }
             }
           }
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Как устроен веб.md",
+                "file": "arch/Паттерн Observer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/Как устроен веб.md",
+                "file": "arch/Паттерн Observer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +190,13 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "2d24f10a8ad9f219",
+  "active": "545a6b0bd6402e88",
   "lastOpenFiles": [
     "Questions/Архитектура и хорошие практики.md",
+    "Questions/Виды веб-приложений.webm",
+    "arch/Паттерн Observer.md",
     "Questions/Как устроен веб.md",
+    "arch",
     "Questions/Разработка приложения.md",
     "idea/2023-03-24.md",
     "date/other/Recording 20230324010416.webm",
@@ -187,7 +204,6 @@
     "idea/new.md",
     "idea/Без названия.md",
     "idea",
-    "Questions/Без названия.md",
     "Без названия.canvas",
     "114596851_980171645776909_4824227956002081470_n.jpg",
     "date/template.md",
@@ -195,7 +211,6 @@
     "date/2023-03-23.md",
     "Questions/Questions.md",
     "date/2023-03-22.md",
-    "Questions/Виды веб-приложений.webm",
     "Questions/Что такое API.webm",
     "date/2023-03-21.md",
     "date/Recording 20230321134704.webm.md",
@@ -203,7 +218,6 @@
     "date/Recording 20230321134528.webm",
     "date/Recording 20230321134704.webm",
     "date/Recording 20230321134447.webm",
-    "Questions",
     "Questions/Web Api/Web Api.md",
     "Questions/Web Api/Что такое HTTP?.md",
     "Questions/Web Api/Что такое HTTP cookie?.md",
