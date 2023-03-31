@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76593e56d77a14b6",
+        "id": "2e2979ea98c0c981",
         "type": "tabs",
         "children": [
           {
-            "id": "2c19e054f0aeb345",
+            "id": "3bf3cdda5e3c8217",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/Архитектура и хорошие практики.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,12 +76,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "78d642930b49bd59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "11dd95be3c6fb328",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Архитектура и хорошие практики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,20 +108,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/Архитектура и хорошие практики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "78d642930b49bd59",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Questions/Архитектура и хорошие практики.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2c19e054f0aeb345",
+  "active": "3bf3cdda5e3c8217",
   "lastOpenFiles": [
+    "Questions/Web Technologies/Web Technologies.md",
     "Questions/Questions.md",
+    "Questions/Разработка приложения.md",
+    "Questions/Как устроен веб.md",
+    "Questions/Web Api/Web Api.md",
+    "Questions/Web Api/Из чего состоит HTTP-запрос?.mp3",
+    "Questions/Web Api/Какие методы может иметь HTTP-запрос?.mp3",
     "Questions/Архитектура и хорошие практики.md",
+    "Questions/Что такое API.webm",
     "Questions/Виды веб-приложений.webm",
     "Questions/Web Api/Для чего они используются? HTTP Cookie.md",
     "arch/Паттерн Observer.md"
