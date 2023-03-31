@@ -1,53 +1,49 @@
 {
   "main": {
-    "id": "3ae1fcf5d3add2bb",
+    "id": "9332ea97fddb8308",
     "type": "split",
     "children": [
       {
-        "id": "dcd667091071c2be",
+        "id": "76593e56d77a14b6",
         "type": "tabs",
         "children": [
           {
-            "id": "2d24f10a8ad9f219",
+            "id": "2c19e054f0aeb345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Как устроен веб.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "545a6b0bd6402e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arch/Паттерн Observer.md",
+                "file": "Questions/Архитектура и хорошие практики.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4e6612d42d7fdc3a",
+    "id": "895eefe96283b43d",
     "type": "split",
     "children": [
       {
-        "id": "7d399ef94ae9e539",
+        "id": "8841487500235016",
         "type": "tabs",
-        "dimension": 57.42857142857143,
         "children": [
           {
-            "id": "fd084838a9a00994",
+            "id": "7730c0a5ecf5714a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53b7f1161eeeb50e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,43 +58,10 @@
             }
           },
           {
-            "id": "4027b4ea6b9f9870",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e6dee0faf9b933cb",
-        "type": "tabs",
-        "dimension": 21.285714285714285,
-        "children": [
-          {
-            "id": "58e2e86e936bf92c",
+            "id": "a8c1365339ea150c",
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "b7ee02799598b1b6",
-        "type": "tabs",
-        "dimension": 21.285714285714285,
-        "children": [
-          {
-            "id": "c4d91b435a344e11",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           }
@@ -109,47 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "bca6d2f59a20316a",
+    "id": "c5addc89d1bb9529",
     "type": "split",
     "children": [
       {
-        "id": "6a5dec29237f497c",
+        "id": "59fc6b0250ae6020",
         "type": "tabs",
         "children": [
           {
-            "id": "03658a9f11c64760",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3e0c7a57fd93d484",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "arch/Паттерн Observer.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2df390e15ea52742",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2a3c162db90fc289",
+            "id": "11dd95be3c6fb328",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch/Паттерн Observer.md",
+                "file": "Questions/Архитектура и хорошие практики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,19 +97,39 @@
             }
           },
           {
-            "id": "30ca5e94575d272f",
+            "id": "e65fb95ba828f3ed",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch/Паттерн Observer.md",
+                "file": "Questions/Архитектура и хорошие практики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "78d642930b49bd59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9db83d8fb5305dd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Questions/Архитектура и хорошие практики.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,48 +142,16 @@
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
-      "command-palette:Открыть палитру команд": false,
-      "audio-recorder:Начать/остановить запись": false
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "545a6b0bd6402e88",
+  "active": "2c19e054f0aeb345",
   "lastOpenFiles": [
+    "Questions/Questions.md",
     "Questions/Архитектура и хорошие практики.md",
     "Questions/Виды веб-приложений.webm",
-    "arch/Паттерн Observer.md",
-    "Questions/Как устроен веб.md",
-    "arch",
-    "Questions/Разработка приложения.md",
-    "idea/2023-03-24.md",
-    "date/other/Recording 20230324010416.webm",
-    "date/other",
-    "idea/new.md",
-    "idea/Без названия.md",
-    "idea",
-    "Без названия.canvas",
-    "114596851_980171645776909_4824227956002081470_n.jpg",
-    "date/template.md",
-    "date/2023-03-24.md",
-    "date/2023-03-23.md",
-    "Questions/Questions.md",
-    "date/2023-03-22.md",
-    "Questions/Что такое API.webm",
-    "date/2023-03-21.md",
-    "date/Recording 20230321134704.webm.md",
-    "date/Recording 20230321135147.webm",
-    "date/Recording 20230321134528.webm",
-    "date/Recording 20230321134704.webm",
-    "date/Recording 20230321134447.webm",
-    "Questions/Web Api/Web Api.md",
-    "Questions/Web Api/Что такое HTTP?.md",
-    "Questions/Web Api/Что такое HTTP cookie?.md",
-    "Questions/Web Api/Разница между Long-Polling, Websockets и Server-Sent Events?.md",
-    "Questions/Web Api/Какие методы может иметь HTTP-запрос?.md",
-    "Questions/Web Api/Из чего состоит HTTP-запрос?.md",
     "Questions/Web Api/Для чего они используются? HTTP Cookie.md",
-    "().md",
-    "Questions/Web Technologies/Web Technologies.md",
-    "Questions/Web Technologies/Что Такое API?.md",
-    "Questions/Web Technologies/Хост (host) и домен (domain).md"
+    "arch/Паттерн Observer.md"
   ]
 }
