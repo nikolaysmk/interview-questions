@@ -11,8 +11,12 @@
             "id": "3bf3cdda5e3c8217",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Разница между HTTP и HTTPS?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Разница между HTTP и HTTPS?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Разница между HTTP и HTTPS?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Разница между HTTP и HTTPS?.md"
+              }
             }
           }
         ]
@@ -140,17 +148,20 @@
   },
   "active": "3bf3cdda5e3c8217",
   "lastOpenFiles": [
+    "Questions/Web Api/Web Api.md",
+    "Разница между HTTP и HTTPS?.md",
+    "Questions/Web Api/Разница между Long-Polling, Websockets и Server-Sent Events?.md",
+    "Questions/Web Api/Из чего состоит HTTP-запрос?.md",
+    "Questions/Web Api/Для чего они используются? HTTP Cookie.md",
     "Questions/Web Technologies/Web Technologies.md",
     "Questions/Questions.md",
     "Questions/Разработка приложения.md",
     "Questions/Как устроен веб.md",
-    "Questions/Web Api/Web Api.md",
     "Questions/Web Api/Из чего состоит HTTP-запрос?.mp3",
     "Questions/Web Api/Какие методы может иметь HTTP-запрос?.mp3",
     "Questions/Архитектура и хорошие практики.md",
     "Questions/Что такое API.webm",
     "Questions/Виды веб-приложений.webm",
-    "Questions/Web Api/Для чего они используются? HTTP Cookie.md",
     "arch/Паттерн Observer.md"
   ]
 }
