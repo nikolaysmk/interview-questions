@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Разработка приложения.md",
+                "file": "React/Жизненный цикл в React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef0cc1942bb1e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c6bb60d52feb310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Что такое React Fiber?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Разработка приложения.md",
+                "file": "React/Что такое React Fiber?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/Разработка приложения.md",
+                "file": "React/Что такое React Fiber?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/Разработка приложения.md"
+                "file": "React/Что такое React Fiber?.md"
               }
             }
           }
@@ -146,10 +171,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3bf3cdda5e3c8217",
+  "active": "3c6bb60d52feb310",
   "lastOpenFiles": [
-    "React/Жизненный цикл в React.md",
     "React/Index.md",
+    "React/Что такое React Fiber?.md",
+    "React/Что такое PureComponent?.md",
+    "React/Жизненный цикл в React.md",
     "Questions/Разработка приложения.md",
     "React",
     "Questions/Как устроен веб.md",
