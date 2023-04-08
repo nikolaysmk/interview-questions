@@ -6,7 +6,7 @@
 - [[Что такое HTTP cookie?]]
 - [[Для чего они используются? HTTP Cookie]]
 - [[Что такое WebSocket?]]
-- [[В чем принцип его работы?]]
+- [[В чем принцип его работы? (WebSocket)]]
 - [[Разница между HTTP и HTTPS?]]
 - [[Разница между Long-Polling, Websockets и Server-Sent Events?]]
 - [[Разница между PUT- и POST-запросами?]]

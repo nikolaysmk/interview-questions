@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Web Api/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "157b43581981f7ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/Web Api/Разница между Long-Polling, Websockets и Server-Sent Events?.md",
+                "file": "Questions/Web Api/В чем принцип его работы? (WebSocket).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Web Api/Разница между Long-Polling, Websockets и Server-Sent Events?.md",
+                "file": "Questions/Web Api/В чем принцип его работы? (WebSocket).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/Web Api/Разница между Long-Polling, Websockets и Server-Sent Events?.md",
+                "file": "Questions/Web Api/В чем принцип его работы? (WebSocket).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/Web Api/Разница между Long-Polling, Websockets и Server-Sent Events?.md"
+                "file": "Questions/Web Api/В чем принцип его работы? (WebSocket).md"
               }
             }
           }
@@ -159,9 +146,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "157b43581981f7ac",
+  "active": "c160cea1cbf24228",
   "lastOpenFiles": [
     "Questions/Web Api/index.md",
+    "Questions/Web Api/Что такое WebSocket?.md",
+    "Questions/Web Api/В чем принцип его работы? (WebSocket).md",
+    "Questions/Web Api/Что такое Web Workers?.md",
+    "Questions/Web Api/Разница между Long-Polling, Websockets и Server-Sent Events?.md",
     "Questions/Web Technologies/index.md",
     "Questions/Questions.md",
     "Questions/Web Technologies/Разница между HTTP и HTTPS?.md",
@@ -183,10 +174,6 @@
     "Questions/React/Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?.md",
     "Questions/React/Что такое React-ссылка (`ref`)? Как создать ссылку?.md",
     "Questions/React/Что Такое `JSX`?.md",
-    "Questions/React/Что такое портал (`Portal`)?.md",
-    "Questions/React/Жизненный цикл в React.md",
-    "Questions/React/Лучшие практики безопасности в React?.md",
-    "Questions/React/Что такое Virtual DOM? Как он работает с React?.md",
     "Questions/React",
     "Questions/Web Api/Из чего состоит HTTP-запрос?.mp3",
     "Questions/Web Api/Какие методы может иметь HTTP-запрос?.mp3",
