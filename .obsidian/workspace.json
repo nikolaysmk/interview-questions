@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Some notion/Авторизация и аутентификация пользователя.md",
+                "file": "Questions/Web api.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47563a2ba9099a82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Что такое Content Security Policy (CSP)?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Some notion/Авторизация и аутентификация пользователя.md",
+                "file": "Questions/Что такое Content Security Policy (CSP)?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Some notion/Авторизация и аутентификация пользователя.md",
+                "file": "Questions/Что такое Content Security Policy (CSP)?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Some notion/Авторизация и аутентификация пользователя.md"
+                "file": "Questions/Что такое Content Security Policy (CSP)?.md"
               }
             }
           }
@@ -145,10 +158,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7730c0a5ecf5714a",
+  "active": "47563a2ba9099a82",
   "lastOpenFiles": [
-    "Some notion/JWT для аутентификации пользователя  на сервере.md",
+    "Questions/Web api.md",
+    "Questions/Что такое Content Security Policy (CSP)?.md",
+    "Questions/Что такое безопасные (Secure) и HttpOnly cookies?.md",
+    "Questions/Разница между PUT- и POST-запросами?.md",
+    "Questions/Web Technologies.md",
     "Some notion/Авторизация и аутентификация пользователя.md",
+    "Some notion/JWT для аутентификации пользователя  на сервере.md",
     "Some notion/useEffect и классы.md",
     "Questions/React.md",
     "Questions/Questions.md",
@@ -160,8 +178,6 @@
     "Questions/React/Пример с Redux Thunk.md",
     "Questions/React/Redux.md",
     "Questions/Testing.md",
-    "Questions/Web api.md",
-    "Questions/Web Technologies.md",
     "Questions/React/Список ошибок в react.md",
     "Questions/React/Лучшие практики безопасности в React?.md",
     "Questions/React/Что такое «опрос» (Polling)? Как его реализовать в React?.md",
@@ -170,9 +186,6 @@
     "Questions/React/Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?.md",
     "Some notion/ChatGPT prompt.md",
     "Паттерны/Паттерн Observer.md",
-    "Some notion/Самые сложные вопросы.md",
-    "Some notion/Разработка приложения.md",
-    "Some notion/Дебаг кода на js без плагинов.md",
     "Что такое White/Black",
     "Что такое White",
     "Без названия",
