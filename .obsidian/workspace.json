@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3b07c2322ac361c",
+            "id": "26bba3913714f212",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Questions/React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Questions/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Questions/React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Questions/React/React.md"
               }
             }
           }
@@ -145,11 +145,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c3b07c2322ac361c",
+  "active": "26bba3913714f212",
   "lastOpenFiles": [
+    "Questions/Web Technologies/Web Technologies.md",
+    "Questions/Web Api/Web api.md",
+    "Questions/Web Api/Что такое HTTP?.md",
+    "Questions/Web Api/Из чего состоит HTTP-запрос?.md",
+    "Questions/Web Api/Что такое CORS?.md",
+    "Questions/Questions.md",
+    "Questions/React/React.md",
+    "README.md",
     "Questions/Testing/Testing.md",
     "Questions/Web Technologies/Что такое Content Security Policy (CSP)?.md",
-    "Questions/Questions.md",
     "Что такое White/Black/Grey Box-тестирование?.md",
     "Some notion/Optimize Your React App’s Performance.md",
     "Some notion/OPTIONS и CORS.md",
@@ -159,22 +166,15 @@
     "Some notion/Состояние и жизненный цикл.md",
     "Some notion/Разработка приложения.md",
     "Some notion/Пример реализации проверки доступа на клиенте с использованием ролей на React..md",
-    "Questions/Web Technologies/Web Technologies.md",
     "Questions/Web Technologies/Что такое безопасные (Secure) и HttpOnly cookies?.md",
     "Tasks/Tasks.md",
-    "Questions/Web Api/Web api.md",
     "Questions/Web Technologies/CDN (Content Delivery Network).md",
     "Questions/Web Technologies/Прогрессивный рендеринг.webm",
     "Questions/Web Technologies/Разница между HTTP и HTTPS?.md",
     "Questions/Web Technologies/Веб-компоненты.mp3",
     "Questions/Web Api/Что такое HTTP cookie?.md",
-    "Questions/Web Api/Что такое CORS?.md",
     "Questions/Web Api/В чем принцип его работы? (WebSocket).md",
     "Questions/Testing/Что такое Quality Gates?.md",
-    "Questions/Testing/Что такое Stub в unit тестировании?.md",
-    "Questions/Testing/Что такое White Black Grey Box-тестирование?.md",
-    "Questions/Testing/Что такое Mock в unit тестировании?.md",
-    "Questions/Testing/Что такое Fake в unit тестировании?.md",
     "Что такое White/Black",
     "Что такое White",
     "Без названия",
