@@ -8,12 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26bba3913714f212",
+            "id": "c657fe3a92e517a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Testing/Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6238b436cb2c73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Questions/React/React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "554d420f3efadf8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Web Technologies/Web Technologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdb8180bf50985bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Web Api/Web api.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1188413b3ae37d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Паттерны/ООП.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "641bb6140593c632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Паттерны/SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/React/React.md",
+                "file": "Questions/Testing/Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/React/React.md",
+                "file": "Questions/Testing/Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/React/React.md"
+                "file": "Questions/Testing/Testing.md"
               }
             }
           }
@@ -145,20 +205,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "26bba3913714f212",
+  "active": "c657fe3a92e517a7",
   "lastOpenFiles": [
     "Questions/Web Technologies/Web Technologies.md",
     "Questions/Web Api/Web api.md",
-    "Questions/Web Api/Что такое HTTP?.md",
-    "Questions/Web Api/Из чего состоит HTTP-запрос?.md",
-    "Questions/Web Api/Что такое CORS?.md",
-    "Questions/Questions.md",
+    "Паттерны/ООП.md",
     "Questions/React/React.md",
-    "README.md",
     "Questions/Testing/Testing.md",
+    "Questions/React/Жизненный цикл в React.md",
+    "Паттерны/SOLID.md",
+    "Some notion/Optimize Your React App’s Performance.md",
+    "Tasks/Tasks.md",
+    "Questions/Questions.md",
+    "Паттерны/Паттерн Observer.md",
+    "Questions/Web Api/Что такое HTTP?.md",
+    "Questions/Web Api/Что такое CORS?.md",
+    "Questions/Web Api/Из чего состоит HTTP-запрос?.md",
+    "README.md",
     "Questions/Web Technologies/Что такое Content Security Policy (CSP)?.md",
     "Что такое White/Black/Grey Box-тестирование?.md",
-    "Some notion/Optimize Your React App’s Performance.md",
     "Some notion/OPTIONS и CORS.md",
     "Some notion/JWT для аутентификации пользователя  на сервере.md",
     "Some notion/debug Hook in react.md",
@@ -167,14 +232,9 @@
     "Some notion/Разработка приложения.md",
     "Some notion/Пример реализации проверки доступа на клиенте с использованием ролей на React..md",
     "Questions/Web Technologies/Что такое безопасные (Secure) и HttpOnly cookies?.md",
-    "Tasks/Tasks.md",
     "Questions/Web Technologies/CDN (Content Delivery Network).md",
     "Questions/Web Technologies/Прогрессивный рендеринг.webm",
-    "Questions/Web Technologies/Разница между HTTP и HTTPS?.md",
     "Questions/Web Technologies/Веб-компоненты.mp3",
-    "Questions/Web Api/Что такое HTTP cookie?.md",
-    "Questions/Web Api/В чем принцип его работы? (WebSocket).md",
-    "Questions/Testing/Что такое Quality Gates?.md",
     "Что такое White/Black",
     "Что такое White",
     "Без названия",
