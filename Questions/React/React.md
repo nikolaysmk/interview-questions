@@ -80,3 +80,4 @@
 - [[Какие хуки были добавлены в React Router версии 5?]]
 - [[Как передавать пропсы в React Router?]]
 - [[Optimize Your React App’s Performance]]
+- [[type in typeScript]]

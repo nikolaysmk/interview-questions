@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c657fe3a92e517a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/Testing/Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6238b436cb2c73b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/React/React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "554d420f3efadf8b",
             "type": "leaf",
             "state": {
@@ -50,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Questions/Web Api/Web api.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6efb70240415ffb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8e604316f3f816c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Testing/Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Testing/Testing.md",
+                "file": "Questions/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/Testing/Testing.md",
+                "file": "Questions/React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/Testing/Testing.md"
+                "file": "Questions/React/React.md"
               }
             }
           }
@@ -205,34 +206,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c657fe3a92e517a7",
+  "active": "6efb70240415ffb6",
   "lastOpenFiles": [
-    "Questions/Web Technologies/Web Technologies.md",
-    "Questions/Web Api/Web api.md",
     "Паттерны/ООП.md",
-    "Questions/React/React.md",
-    "Questions/Testing/Testing.md",
-    "Questions/React/Жизненный цикл в React.md",
     "Паттерны/SOLID.md",
-    "Some notion/Optimize Your React App’s Performance.md",
-    "Tasks/Tasks.md",
-    "Questions/Questions.md",
-    "Паттерны/Паттерн Observer.md",
-    "Questions/Web Api/Что такое HTTP?.md",
-    "Questions/Web Api/Что такое CORS?.md",
-    "Questions/Web Api/Из чего состоит HTTP-запрос?.md",
-    "README.md",
-    "Questions/Web Technologies/Что такое Content Security Policy (CSP)?.md",
-    "Что такое White/Black/Grey Box-тестирование?.md",
-    "Some notion/OPTIONS и CORS.md",
-    "Some notion/JWT для аутентификации пользователя  на сервере.md",
-    "Some notion/debug Hook in react.md",
-    "Some notion/ChatGPT prompt.md",
-    "Some notion/Состояние и жизненный цикл.md",
-    "Some notion/Разработка приложения.md",
-    "Some notion/Пример реализации проверки доступа на клиенте с использованием ролей на React..md",
-    "Questions/Web Technologies/Что такое безопасные (Secure) и HttpOnly cookies?.md",
-    "Questions/Web Technologies/CDN (Content Delivery Network).md",
+    "Questions/React/React.md",
+    "Questions/Web Api/Web api.md",
+    "Questions/Web Technologies/Web Technologies.md",
+    "Questions/React/type in typeScript.md",
+    "Questions/Testing/Testing.md",
+    "Questions/React/Что такое предохранители (Error Boundaries)?.md",
+    "Questions/React/Что такое портал (`Portal`)?.md",
+    "Questions/React/Что такое поднятие состояния вверх (Lifting State Up)?.md",
+    "Questions/React/Что такое `ReactDOMServer`?.md",
+    "Questions/React/что нового в react 18.md",
+    "Questions/React/Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?.md",
+    "Questions/React/Разница между теневым (Shadow) и виртуальным (Virtual) DOM?.md",
+    "Questions/React/Разница между состоянием(`state`) и пропсами(`props`)?.md",
+    "Questions/React/Разница между рендерингом и монтированием?.md",
+    "Questions/React/Разница между компонентом и контейнером?.md",
+    "Questions/React/Разница между классовым и функциональным компонентами?.md",
+    "Questions/React/Разница между `useEffect` и `componentDidMount`?.md",
+    "Questions/React/Разница между `React` и `ReactDOM`?.md",
+    "Questions/React/Разница между `memo` и `useMemo`?.md",
+    "Questions/React/Разница между `createElement` и `cloneElement`?.md",
+    "Questions/React/Пример с Redux Thunk.md",
+    "Questions/React/Преимущества хуков?.md",
+    "Questions/React/Как React обрабатывает, или ограничивает использование пропсов определенного типа?.md",
+    "Questions/React/Как реализовать однократное выполнение операции при начальном рендеринге?.md",
     "Questions/Web Technologies/Прогрессивный рендеринг.webm",
     "Questions/Web Technologies/Веб-компоненты.mp3",
     "Что такое White/Black",
