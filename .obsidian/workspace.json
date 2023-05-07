@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны/SOLID.md",
+                "file": "Questions/Web Api/Что такое IndexedDB в браузере?.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны/SOLID.md",
+                "file": "Questions/Web Api/Что такое IndexedDB в браузере?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паттерны/SOLID.md",
+                "file": "Questions/Web Api/Что такое IndexedDB в браузере?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паттерны/SOLID.md"
+                "file": "Questions/Web Api/Что такое IndexedDB в браузере?.md"
               }
             }
           }
@@ -168,6 +168,9 @@
   },
   "active": "10e41465246922a6",
   "lastOpenFiles": [
+    "Questions/Web Api/Web api.md",
+    "Questions/Web Api/Что такое IndexedDB в браузере?.md",
+    "Паттерны/SOLID.md",
     "Паттерны/KISS.md",
     "Паттерны/index.md",
     "Паттерны/DRY.md",
@@ -191,9 +194,6 @@
     "Some notion/Горячие клавиши vsCode.md",
     "Some notion/Авторизация и аутентификация пользователя.md",
     "Questions/React/type in typeScript.md",
-    "Questions/React/Redux thunk.md",
-    "Questions/React/Redux.md",
-    "Questions/React/React.md",
     "Questions/Web Technologies/Прогрессивный рендеринг.webm",
     "Questions/Web Technologies/Веб-компоненты.mp3",
     "Что такое White/Black",
